@@ -123,7 +123,7 @@ categories:
 
    4. 项目完结
 
-# 5. 黑马点评（Redis 笔记）
+# 5. 人人点评网（Redis）
 
 ## 短信登录（Session to Redis）
 
@@ -395,6 +395,12 @@ categories:
       ![image-20240313131312631](JavaProjects/image-20240313131312631.png)
 
 ## 达人探店
+
+1. 查看探店笔记
+2. 点赞实现
+3. 点赞排行
+
+## 好友关注
 
 
 
